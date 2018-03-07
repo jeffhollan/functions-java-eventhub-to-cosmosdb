@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "<Storage Connection String>",
+    "AzureWebJobsDashboard": "",
+    "EventHubConnection": "<Event Hub Connection String>",
+    "AzureWebJobsCosmosDBConnectionString": "<Cosmos Db Connection String>"
+  }
+}
